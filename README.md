@@ -47,7 +47,10 @@ PROCEDURE:
 
 ## TABULAR COLUMN
 ### Rectifier without filter
+![WhatsApp Image 2025-10-28 at 14 28 29_4289db17](https://github.com/user-attachments/assets/79bdbeaa-8f08-45cd-8d2f-53405dcaf5f4)
+
 ### Rectifier with filter
+![WhatsApp Image 2025-10-28 at 14 28 29_4c91baf2](https://github.com/user-attachments/assets/fd1820ed-ebe8-4c79-a15a-32903125f5bd)
 
 ## WAVEFORM:
 <img width="1368" height="868" alt="Screenshot 2025-10-07 141752" src="https://github.com/user-attachments/assets/f3b415f0-2623-4b6d-a960-2aea7feb5f40" />
